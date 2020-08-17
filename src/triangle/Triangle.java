@@ -7,7 +7,7 @@ package triangle;
 
 /**
  *
- * @author 247
+ * @author Guntur Wicaksono
  */
 public class Triangle {
 
